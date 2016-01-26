@@ -1,13 +1,30 @@
 # Address Book
 
-#### An address book web interface
+#### A javascript address book, January 26, 2016
 
-#### By Epicodus
+#### By Abby Rolling & Sean Peerenboom
 
 ## Description
 
-An address book application to demonstrate the use of string prototypes and objects.
+This webpage will take user inputs for a variety of addresses for each person in a contact list.
+
+## Known Bugs
+
+None
+
+## Technologies Used
+
+* HTML
+* CSS
+* Javascript
+* jQuery
+* Atom
+* Git
+* Mocha & Chai
+* Github
 
 ### License
 
-See https://github.com/epicodus-lessons/addressBook/tree/68ecdc0ad18d23fa76beff0d96a5e70385f7c073
+Licensed under the GPL
+
+Copyright (c) 2016 **Abby Rolling and Sean Peerenboom**
